@@ -1,0 +1,44 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# MacOS settings
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+
+# Windows Folder config file
+Desktop.ini
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.test
+
+# Docker
+docker-compose*.yml
+*.dockerfile
+Dockerfile
+
+# IDE specific files
+.idea/
+*.swp
+*.swo
+.vscode/
+*.sublime-project
+*.sublime-workspace
