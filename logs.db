@@ -1,4 +1,9 @@
+{"message":"This is a sample log message","timestamp":{"$$date":1713264133305},"_id":"CORysP3jc1cr2PpO"}
 {"message":"This is a test log entry","timestamp":{"$$date":1712750500128},"_id":"HfMRZaVYucEexHh3"}
 {"message":"This is a test log entry","timestamp":{"$$date":1712753936229},"_id":"IJQlq9uJ4Mrgisic"}
-{"message":"anothar log entry","timestamp":{"$$date":1712754188328},"_id":"syPNWPmMXpOzPCMq"}
 {"message":"This is a sample log message","timestamp":{"$$date":1712819106943},"_id":"fEzpxVpGkzGlYwhK"}
+{"message":"anothar log entry","timestamp":{"$$date":1712754188328},"_id":"syPNWPmMXpOzPCMq"}
+{"message":"This is a sample log message","timestamp":{"$$date":1713265802291},"_id":"s7QvOUDEtwT3QMV1"}
+{"message":"anothar log entry","timestamp":{"$$date":1713268549920},"_id":"t9shU6qmXq8ya4iH"}
+{"message":{"a":"anothar log entry"},"timestamp":{"$$date":1713269012087},"_id":"K26vrsJjdtOVZD84"}
+{"message":5,"timestamp":{"$$date":1713269030821},"_id":"wVpFhepe2A7YA3Ad"}

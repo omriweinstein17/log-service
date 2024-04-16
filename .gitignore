@@ -30,11 +30,6 @@ Desktop.ini
 .env
 .env.test
 
-# Docker
-docker-compose*.yml
-*.dockerfile
-Dockerfile
-
 # IDE specific files
 .idea/
 *.swp

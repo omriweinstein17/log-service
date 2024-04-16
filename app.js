@@ -60,8 +60,8 @@ app.get("/search-logs", (req, res) => {
 const PORT = process.env.PORT || 3000;
 // Read the SSL key and certificate files for HTTPS configuration
 const httpsOptions = {
-  key: fs.readFileSync("key.pem"),
-  cert: fs.readFileSync("cert.pem"),
+  key: fs.readFileSync("./key.pem"),
+  cert: fs.readFileSync("./cert.pem"),
 };
 //Create an HTTPS server using the provided options and the Express app
 //and start listening on the specified port for HTTPS requests
